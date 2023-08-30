@@ -25,27 +25,6 @@ pip install pandas numpy statsmodels pyvinecopulib yfinance matplotlib
 4. **Trading Strategy**: Formulates a trading strategy based on the copula analysis.
 5. **Performance Metrics**: Evaluates the performance of the formulated strategy against a simple buy-and-hold strategy.
 
-## Usage
-
-1. Clone the repository to your local machine:
-
-\```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
-\```
-
-2. Navigate to the repository's directory:
-
-\```bash
-cd YOUR_REPOSITORY
-\```
-
-3. Run the main script:
-
-\```bash
-python main_script_name.py
-\```
-
-Note: Replace `main_script_name.py` with the name of your main script.
 
 ## Results
 
